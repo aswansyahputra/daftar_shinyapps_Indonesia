@@ -23,6 +23,10 @@
 
 ## R Package
 
+* Small Area Estimation
+  + [msaeDB](https://rdocumentation.org/packages/msaeDB) oleh [Zaza Yuda Perwira](https://github.com/zazaperwira).
+  + [msaeRB](https://rdocumentation.org/packages/msaeRB) oleh [Zenda Oka Briantiko](https://github.com/zendaokab).
+
 ## Komunitas useR! Indonesia
 Silakan bergabung untuk berkenalan, berdiskusi, dan berkontribusi.
 > Grup Telegram [@GNURIndonesia](https://t.me/GNURIndonesia)
